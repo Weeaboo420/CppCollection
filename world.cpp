@@ -2,7 +2,7 @@
 #include <math.h>
 #include <time.h>
 #include <stdlib.h>
-#include "FastNoiseLite.h"
+#include "include/FastNoiseLite.h"
 
 using std::cout;
 using std::endl;

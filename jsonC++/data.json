@@ -1,0 +1,45 @@
+{
+	"Games":
+	[
+		{
+			"Game-Title": "DOOM 2: Hell on Earth",
+			"Release-Year": 1994,
+			"Developer": "ID Software"
+		},
+		{
+			"Game-Title": "Hitman: Blood Money",
+			"Release-Year": 2006,
+			"Developer": "IO Interactive"
+		},
+		{
+			"Game-Title": "Resident Evil 3",
+			"Release-Year": 2020,
+			"Developer": "Capcom"
+		},
+		{
+			"Game-Title": "Tom Clancy's Ghost Recon Wildlands",
+			"Release-Year": 2017,
+			"Developer": "Ubisoft"
+		},
+		{
+			"Game-Title": "The Legend of Zelda: Breath of The Wild",
+			"Release-Year": 2017,
+			"Developer": "Nintendo"
+		},
+		{
+			"Game-Title": "The Legend of Zelda: Twilight Princess",
+			"Release-Year": 2006,
+			"Developer": "Nintendo"
+		},
+		{
+			"Game-Title": "Wolfenstein: Youngblood",
+			"Release-Year": 2019,
+			"Developer": "Machinegames"
+		},
+		{
+			"Game-Title": "Devil May Cry 5",
+			"Release-Year": 2019,
+			"Developer": "Capcom"
+		}
+	]
+}
